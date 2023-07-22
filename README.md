@@ -13,3 +13,4 @@ I have also included the raw MATLAB code in the file [matlab code](/matlabcode) 
 | ------------------------------------------------ | --------------------------------------------------------------------------------------------------- |
 | [Introduction](/introduction-to-functions.ipynb) | What is a function? Why might you need to create your own? The basic structure of custom functions. |
 | [Customizing Functions](/customizing-functions.ipynb) | How can we scaffold simple functions into more complex functions using `varargin`, `nargin`, and `switch case`? |
+| [Arguments](/arguments.ipynb) | How to use the `arguments end` statement and why this helps your code with an example using single value decomposition (SVD). |
