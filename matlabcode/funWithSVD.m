@@ -9,7 +9,7 @@ function funWithSVD(pic, features, options)
     
 % checks arguments
     arguments
-        pic (1, 1) string
+        pic (1, 1) string {mustBeTextScalar}
         features (1, :) double {mustBeNumeric}
         options.originalPic string = 'no'
         options.newPic string = 'yes'
