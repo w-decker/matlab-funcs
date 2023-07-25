@@ -3,7 +3,7 @@
 <!--Buttons-->
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=w-decker/matlab-funcs)
 
-This repository is for learning how to build functions in MATLAB ranging in complexities for applications in the field of cognitive neuroscience. The code in this lesson makes use of Jupyter Lab/Notebook and the MATLAB kernel. Instructions for installation can be found [here](https://github.com/mathworks/jupyter-matlab-proxy). This is not a requirement and you may toggle between whichever IDE you wish to use.  
+This repository is for learning how to build functions in MATLAB ranging in complexities. The code in this lesson makes use of Jupyter Lab/Notebook and the MATLAB kernel. Instructions for installation can be found [here](https://github.com/mathworks/jupyter-matlab-proxy). This is not a requirement and you may toggle between whichever IDE you wish to use.  
 
 I have also included the raw MATLAB code in the file [matlab code](/matlabcode) which does not inlcude any of the markdown text that you'll find in Jupyter Notebook files.
 
